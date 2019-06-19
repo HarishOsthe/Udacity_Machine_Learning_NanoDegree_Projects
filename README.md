@@ -1,1 +1,1 @@
-# Udacity_Machine_Learning_NanoDegree_Projects
+# Udacity Machine Learning NanoDegree Projects
