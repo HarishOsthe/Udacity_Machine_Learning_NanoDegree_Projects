@@ -1,28 +1,6 @@
 # Udacity Machine Learning NanoDegree Projects
 <div id="content">
       <header class="container-fluild header">
-        <div class="container">
-          <div class="row">
-            <div class="col-12">
-              <div class="align-items-middle">
-                <button type="button" id="sidebarCollapse" class="btn btn-toggle-sidebar">
-                  <div></div>
-                  <div></div>
-                  <div></div>
-                </button>
-
-                <h1 style="display: inline-block">03. Program Structure</h1>
-              </div>
-            </div>
-          </div>
-        </div>
-      </header>
-
-      <main class="container">
-        <div class="row">
-          <div class="col-12">
-            <div class="ud-atom">
-  <h3></h3>
   <div>
   <h1 id="term-1-program-structure">Term 1 Program Structure</h1>
 </div>
@@ -64,26 +42,3 @@
 
 
 </div>
-<div class="divider"></div>
-          </div>
-
-          <div class="col-12">
-            <p class="text-right">
-              <a href="04. Udacity Support.html" class="btn btn-outline-primary mt-4" role="button">Next Concept</a>
-            </p>
-          </div>
-        </div>
-      </main>
-
-      <footer class="footer">
-        <div class="container">
-          <div class="row">
-            <div class="col-12">
-              <p class="text-center">
-                <a href="https://github.com/udacimak/udacimak#readme" target="_blank">udacimak v1.4.0</a>
-              </p>
-            </div>
-          </div>
-        </div>
-      </footer>
-    </div>
