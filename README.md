@@ -29,16 +29,3 @@
 </div>
 
 </div>
-<div class="divider"></div><div class="ud-atom">
-  <h3></h3>
-  <div>
-  <figure class="figure">
-    <img src="img/1-14-machine-learning-and-stanley2x.jpg" alt="" class="img img-fluid">
-    <figcaption class="figure-caption">
-      
-    </figcaption>
-  </figure>
-</div>
-
-
-</div>
